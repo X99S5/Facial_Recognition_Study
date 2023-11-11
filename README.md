@@ -1,3 +1,5 @@
+# Facial_Recognition_Project
+
 The code can be run from main.py.
 
 The process behind the code is better seen in the A-B folders with jupyter notebook file.
@@ -10,6 +12,7 @@ task A1, is about detecting gender in the celebrity dataset. The second task, A2
 celebrity dataset but involves detecting whether someone is smiling or not. Task B1/B2 relates to
 detecting face shape/eye color respectively and is applied to the cartoon dataset.
 
+Note: Datasets folder is empty , please message me for the datasets.
 
 
 
