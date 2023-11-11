@@ -12,6 +12,12 @@ task A1, is about detecting gender in the celebrity dataset. The second task, A2
 celebrity dataset but involves detecting whether someone is smiling or not. Task B1/B2 relates to
 detecting face shape/eye color respectively and is applied to the cartoon dataset.
 
+In this project simple machine learning algorithms can provide good prediction accuracies (above 
+80% to even close to 90%) depending on the dataset. However, to maximize performance and 
+reach above 90% and even close to 100%, neural networks are necessary. We use a total of 4 Machine learning 
+methods  (Logistic Regression, Random Forest, Convolutional Neural Network, K-NearestNeighbors) 
+alongside other related methods and testing cases such as with PCA etc.
+
 Note: Datasets folder is empty , please message me for the datasets.
 
 
