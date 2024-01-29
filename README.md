@@ -1,4 +1,4 @@
-# Facial_Recognition_Project
+# Facial Recognition Study
 
 The code can be run from main.py.
 
